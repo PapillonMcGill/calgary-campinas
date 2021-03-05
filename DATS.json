@@ -59,7 +59,7 @@
     }
   ],
   "version": "1.0",
-  "privacy": "public",
+  "privacy": "open",
   "licenses": [
     {
       "name": "CC BY-ND"
