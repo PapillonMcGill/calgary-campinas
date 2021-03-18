@@ -62,6 +62,10 @@
   "privacy": "public",
   "licenses": [
     {
+      "identifier": {
+        "identifier": "ilx_0102621",
+        "identifierSource": "http://uri.interlex.org/base/ilx_0102621"
+      },
       "name": "CC BY-ND"
     }
   ],
