@@ -222,10 +222,22 @@
   ],
   "keywords": [
     {
-      "value": "brain"
+			"information": {
+        "identifier": {
+          "identifier": "ilx_0101431",
+          "identifierSource":"http://uri.interlex.org/base/ilx_0101431"
+        },
+				"value": "brain"
+      }
     },
     {
-      "value": "MRI"
+			"information": {
+		    "identifier": {
+          "identifier": "113091000",
+     	    "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+       	},
+				"value": "MRI"
+			}
     },
     {
       "value": "raw data"
